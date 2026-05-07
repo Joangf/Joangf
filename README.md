@@ -104,12 +104,12 @@ I'm a **Software Engineering student at HCMUT** who ships things end-to-end — 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joangf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joangf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Joangf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Joangf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joangf&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+  <img src="https://streak-stats.demolab.com/?user=Joangf&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
 </div>
 
 ---
